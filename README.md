@@ -16,14 +16,14 @@ Test Skill &amp; Logic Skill by refactory
 1. Petunjuk Penggunaan aplikasi OAUTH & Aplikasi CLI
    - Pertama, pastikan mongodb dan node js sudah tersedia
    - masuk ke directory root program 'Fullstack JS/combine' menggunakan terminal
-   - jalankan dengan 'nodemon start' atau 'node app.js'
+   - jalankan dengan ```nodemon start``` atau ```node app.js```
    - akses pada browser dengan url : 
    ```'http://localhost:5000```
    - untuk menggunakan CLI, cukup dengan ```node commands.js help ``` pada directory root program ```Fullstack JS/combine```
 
 
 2. Petunjuk Penggunaan hasil Logic Test
-    -  masuk ke directory root program 'Logic Test/testskill' menggunakan terminal
+    -  masuk ke directory root program ```Logic Test/testskill``` menggunakan terminal
     -  jalankan dengan ```nodemon start``` atau ```node index.js```
     -  akses hasil pada terminal
 
