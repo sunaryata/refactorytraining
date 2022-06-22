@@ -4,10 +4,10 @@ Test Skill &amp; Logic Skill by refactory
 
 ## Table of contents
 	Folder yang dipisahkan menurut topik test skill, yang terdiri dari :
--Fullstack JS : program membuat Backend OAUTH facebook dan google. 
--Logic Test : Berisi Source code untuk menjawab soal-soal dari logic test
--diagram alur aplikasi : Berisi dokumen yang menggambarkan bagaimana alur aplikasi OAUTH dan CLI berjalan
--Logic Test Dokumentasi : Berisi jawaban dari logic test berdasarkan tiap-tiap topik soal dalam bentuk dokumen PDF
+   - Fullstack JS : program membuat Backend OAUTH facebook dan google.
+   - Logic Test : Berisi Source code untuk menjawab soal-soal dari logic test
+   - diagram alur aplikasi : Berisi dokumen yang menggambarkan bagaimana alur aplikasi OAUTH dan CLI berjalan
+   - Logic Test Dokumentasi : Berisi jawaban dari logic test berdasarkan tiap-tiap topik soal dalam bentuk dokumen PDF
 
 
 
