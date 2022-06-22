@@ -30,7 +30,7 @@ Test Skill &amp; Logic Skill by refactory
 	c. jalankan dengan 'nodemon start' atau 'node index.js'
 
 3. Other information
--nama Program database : 
+-nama Program database : mongodb
 -nama database : facebookauth
 -nama collection : auth
 -Platform bahasa pemrograman : node js
