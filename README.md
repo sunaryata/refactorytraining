@@ -24,7 +24,7 @@ Test Skill &amp; Logic Skill by refactory
 
 2. Petunjuk Penggunaan hasil Logic Test
     -  masuk ke directory root program 'Logic Test/testskill' menggunakan terminal
-    -  jalankan dengan 'nodemon start' atau 'node index.js
+    -  jalankan dengan ```nodemon start``` atau ```node index.js```
     -  akses hasil pada terminal
 
 
