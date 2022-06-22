@@ -18,8 +18,8 @@ Test Skill &amp; Logic Skill by refactory
    - masuk ke directory root program 'Fullstack JS/combine' menggunakan terminal
    - jalankan dengan 'nodemon start' atau 'node app.js'
    - akses pada browser dengan url : 
-   ```bash 'http://localhost:5000
-   - untuk menggunakan CLI, cukup dengan 'node commands.js help' pada directory root program 'combine'
+   ```bash 'http://localhost:5000```
+   - untuk menggunakan CLI, cukup dengan ```bash node commands.js help ``` pada directory root program 'combine'
 
 
 2. Petunjuk Penggunaan hasil Logic Test
