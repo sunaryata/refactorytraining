@@ -17,7 +17,8 @@ Test Skill &amp; Logic Skill by refactory
    - Pertama, pastikan mongodb dan node js sudah tersedia
    - masuk ke directory root program 'Fullstack JS/combine' menggunakan terminal
    - jalankan dengan 'nodemon start' atau 'node app.js'
-   - akses pada browser dengan url : 'http://localhost:5000
+   - akses pada browser dengan url : 
+   ```bash 'http://localhost:5000
    - untuk menggunakan CLI, cukup dengan 'node commands.js help' pada directory root program 'combine'
 
 
