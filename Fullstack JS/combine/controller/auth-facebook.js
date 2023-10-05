@@ -12,8 +12,8 @@ module.exports = function() {
   // with a user object, which will be set at `req.user` in route handlers after
   // authentication.
   passport.use(new Strategy({
-    clientID: "736634471002111",
-    clientSecret: "d09ae918b2cc9c30d4ec68ca81584f52",
+    clientID: "",
+    clientSecret: "",
     callbackURL: "http://localhost:5000/auth/facebook/callback",
     enableProof: true,
     state: true,
